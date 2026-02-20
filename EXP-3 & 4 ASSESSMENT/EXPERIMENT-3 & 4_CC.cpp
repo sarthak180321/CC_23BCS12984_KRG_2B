@@ -1,4 +1,4 @@
--------------BRUTE FORCE-----------------
+
 int sumBitDifferences(vector<int>& arr) {
     int n = arr.size();
     int ans = 0;
